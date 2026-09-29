@@ -1,7 +1,7 @@
 (ns underwriting.store
   "SSoT for the ISCO-08 3312 independent loan origination &
   underwriting practice actor (itonami actor pattern, ADR-2607011000
-  / CLAUDE.md Actors section; README's 'Robotics premise' — a
+  / AGENTS.md Actors section; README's 'Robotics premise' — a
   document intake and archival robot performs loan-file assembly,
   income-document scanning and physical archival under this
   advisor/governor pair, which never dispatches hardware itself and
